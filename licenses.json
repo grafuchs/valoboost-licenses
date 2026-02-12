@@ -1,15 +1,6 @@
 {
   "licenses": [
     {
-      "key": "VB-DEV-0001",
-      "domain": "localhost",
-      "ip": "127.0.0.1",
-      "plan": "development",
-      "expires": "2030-12-31",
-      "active": true,
-      "customer": "Geliştirici (Development)"
-    },
-    {
       "key": "VB-0001",
       "domain": "example.com",
       "ip": "185.100.200.50",
@@ -38,3 +29,4 @@
     }
   ]
 }
+
